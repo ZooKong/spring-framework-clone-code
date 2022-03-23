@@ -1,0 +1,8 @@
+jar {
+    archivesBaseName ='spring-framework-copy-study-spring-core'
+    version = 'v1.0.0'
+}
+
+dependencies {
+
+}
